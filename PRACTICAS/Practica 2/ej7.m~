@@ -1,0 +1,6 @@
+clc
+
+
+vector=ceil(100*rand(1000,1);
+
+

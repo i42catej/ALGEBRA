@@ -1,0 +1,68 @@
+function [numero]=bit(n)
+
+switch n
+    case 0
+        numero=00000;
+    case 1
+        numero=00001;
+    case 2
+        numero=00010;
+    case 3
+        numero=00011;
+    case 4
+        numero=00100;
+    case 5
+        numero=00101;
+    case 6
+        numero=00110
+    case 7
+        numero=00111
+    case 8
+        numero=01000;
+    case 9
+        numero=01001;
+    case 10
+        numero=01010;
+    case 11
+        numero=01011;
+    case 12
+        numero=01100;
+    case 13
+        numero=01101;
+    case 14
+        numero=01110;
+    case 15
+        numero=01111;
+    case 16
+        numero=10000;
+    case 17
+           n
+    case 18
+       
+    case 19
+
+    case 20
+ 
+    case 21
+        
+    case 22
+        
+    case 23
+    
+    case 24
+
+    case 25
+       
+    case 26
+
+    case 27
+    
+    case 28
+        
+    case 29
+        
+    case 30
+    
+    case 31
+
+   
